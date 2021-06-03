@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch occurrences impartially relating, the present state and condition of both armies; with their several actions, designs, and motions; and the desperate ousets and victorious atchievments obtained at Ruthin Castle. Likevvise, the orders of General Monk to all the English forces, to march up against the highlanders in one intire body; and the speech of Gen. Middleton to his souldiers, declaring, that if their enemies vvere one hundred thousand strong, there were enow to be killed, enow to be taken prisoners, and enow to run away. Together with a relation of the great and memorable engagement, the event and success thereof, and the particulars of the loss on both sides.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94274</idno><idno type="EEBO-CITATION">99866098</idno>
+  <idno type="VID">118360</idno>
+  <idno type="EEBO-PROQUEST">2248495936</idno>
+  
+            <idno type="STC">Wing S959</idno>
+            <idno type="STC">Thomason E744_6</idno>
+            <idno type="STC">ESTC R207023</idno>
+            <idno type="PROQUEST">99866098</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866098e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E744[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch occurrences impartially relating, the present state and condition of both armies; with their several actions, designs, and motions; and the desperate ousets and victorious atchievments obtained at Ruthin Castle. Likevvise, the orders of General Monk to all the English forces, to march up against the highlanders in one intire body; and the speech of Gen. Middleton to his souldiers, declaring, that if their enemies vvere one hundred thousand strong, there were enow to be killed, enow to be taken prisoners, and enow to run away. Together with a relation of the great and memorable engagement, the event and success thereof, and the particulars of the loss on both sides.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118360:1"/>
+            <p>The Scotch OCCURRENCES Impartially relating, The present state and condition of both Armies; with their several Actions, Designs, and Motions; and the desperate Onsets and victo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Atchievme<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts obtained at <hi>Ruthin</hi> Castle.</p>
+            <p>Likevvise, the Orders of General MONK to all the English Forces, to march up against the Highlanders in one in the Body; And the Speech of Gen. <hi>Middleton</hi> to his souldiers,</p>
+            <p>
+               <hi>Declaring,</hi> That if their Enemies vvere one hundred thousand strong, there were enow to be killed, enow to be taken prisoners and enow to run away.</p>
+            <p>Together with a Relation of the great and memo<g ref="char:EOLhyphen"/>rable Engagement, the event and success thereof, and the particulars of the loss on both sides.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>George Horton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118360:2"/>
+            <pb n="3" facs="tcp:118360:2"/>
+            <head>OCCURRENCES From SCOTLAND. Comprising the present state and conditi<g ref="char:EOLhyphen"/>on of both Armies; with their several Actions, Designes, and Motions, and the desperate Onsets, and victorious Atchiev<g ref="char:EOLhyphen"/>ments.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Highlanders having plaid fast and loose with the English for many dayes, and sometimes descending from the Mountains to the Lowlands, seeking whom they could devour, it was thought expedient by Col. Morgan to put a check to their insolet de<g ref="char:EOLhyphen"/>portments;
+<pb n="4" facs="tcp:118360:3"/>in pursuance whereof, he marched in person with a considerable party of Horse, Foot, and Dra<g ref="char:EOLhyphen"/>goons, to a Pass where they had intrenched them<g ref="char:EOLhyphen"/>selves, where he onely allarum'd them, and so retur<g ref="char:EOLhyphen"/>ned; for indeed to little purpose it would have bin to bav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said, co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sidering that there was no wayes feasible to engage th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sign b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing (as sup<g ref="char:EOLhyphen"/>posed) to divert Action for the Summer season, and so to weary out th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> English in the Winter: for we are informed, that they are consident that so cold a Climate will be too hot for the English Spirits: Therefore, we take this observation from their De<g ref="char:EOLhyphen"/>portment and Carriage, that they would be in a ve<g ref="char:EOLhyphen"/>ry despicable condition, were it not for the extra<g ref="char:EOLhyphen"/>ordinary advantage they have by the Hills: Never<g ref="char:EOLhyphen"/>theless, neither odds of Numbers, nor advantage of places whereto we are strangers, will induce them to fight Us. It remaines therefore to deal with them at their own skulking Game, as we can; but we have been necessitated to wait an opportunity for want of grass, and other necessaries; and great are the extremities of the weather that the English have been exposed unto: no less then four dayes toge<g ref="char:EOLhyphen"/>ther did it rain extreamly through the Tents of the Souldiery, which much obstructed the design of the
+<pb n="5" facs="tcp:118360:3"/>General at present; but his Excellency hath now taken the field, and on the 6 of this instant June ad<g ref="char:EOLhyphen"/>vanced towards St. Johnstons, where he intends to randevouz, and to stay till the coming up of the Glascow forces, and Col. Prides Regiment of Foot, and then to march intirely up to the Hills, with a Resolution either to engage the enemy, or dispierse them, if he can.</p>
+            <p>For, indeed, this may seem dubions, and a work of some difficulty for a time, considering that they have so great an advantag on the Mountains, where they have laid great heapes of stones, to tumble down upon our heads when we come into the Val<g ref="char:EOLhyphen"/>leys.</p>
+            <p>Again, we have as stubborn an enemy to deal withall, as Europe can afford; for most of their com<g ref="char:EOLhyphen"/>manders are experienc'd Souldiers of known worth and policy (was their Cause but just) especially. General Middleton, who has led us a notable dance, but yet we cannot harp upon the right string; one<g ref="char:EOLhyphen"/>ly thus much that we have taken some few of his Pipers, who are now like to change their Tune, and sing with the Irish,</p>
+            <q>O hone, O hone.</q>
+            <pb n="6" facs="tcp:118360:4"/>
+            <p>But I conceive neither parties have as yet much cause to brag, for the Game is plaid with so great dexterity on both sides, that there is no great Losers; onely Capt. Hill Governor of Ruthin Castle in Bage<g ref="char:EOLhyphen"/>noth writes, that upon a salley forth, he at<g ref="char:EOLhyphen"/>tempted a pass of the enemies, and after a desperate Onset, and sharp Conflict, he be<g ref="char:EOLhyphen"/>came Master, taking no less then 70 priso<g ref="char:EOLhyphen"/>ners, put as many to the sword, and defeat<g ref="char:EOLhyphen"/>ed the whole party, which were not above as many more, but not without some loss. Nay, this is not all, for 'tis said, that since the advance of General Monk toward the Hils, that he hath engaged part of Middle<g ref="char:EOLhyphen"/>tons forces, and after a sharp conflict rout<g ref="char:EOLhyphen"/>ed them and took two passes. O this is ex<g ref="char:EOLhyphen"/>cellent, if the old proverb be not verifyed, Tis too good News to be true. However, thus much we are ascertain'd, that the ene<g ref="char:EOLhyphen"/>my
+<pb n="7" facs="tcp:118360:4"/>flies before us, &amp; declines engagement; but Middleton useth all possible meanes to support their spirits, and (though many are possessed with a pannick fear, as Henry the fifth King of England was, before the bat<g ref="char:EOLhyphen"/>tel of Agincourt, hearing of the great and warlike preparations of the French, was somewhat perplexed: but one Capt. Gam standing by, said, That if there were so ma<g ref="char:EOLhyphen"/>ny, there were enow to be killed enow to be taken prisoners, and enow to run away: which resolute speech much cheared up his Majesty) even such an operation hath the expressions of the aforesaid General, but yet notwithstanding, Glencairn seemes averse, and doth as Hannibal did before the great battel of Cannae between the Carthagini<g ref="char:EOLhyphen"/>ans and Romans, sends his brother Mago to view the number, and countenance of the enemy; and at his return asked him, what
+<pb n="8" facs="tcp:118360:5"/>Work they were like to have with the Romans? Work enough, answered Ma<g ref="char:EOLhyphen"/>go, for they are an horrible company: As horrible a company as they be (said Han<g ref="char:EOLhyphen"/>nibal) I will warrant thee there is not one Mago amongst them, and therewith all fell a laughing, which his souldiers took for a certain sign of Victory, which accordingly fell out.</p>
+            <p>But there is a great contrariety and vast difference between the two Causes now in dispute: neither do I believe that the Eng<g ref="char:EOLhyphen"/>lish Red coats vvill be laught out of their Atchievements by the Highlanders; though they are pleased to say, as once vvas said of the Xerxes Army in Grece; vvhose Arch<g ref="char:EOLhyphen"/>ers vvere so many (as it vvas reported) that the flight of the Persi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Arrows would be so thick as that they would darken the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght of the Sun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Dieneces a Sparran answered; I'ts good newes, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then we shall fight in the shade.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
